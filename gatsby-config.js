@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Barbara the Writer',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Barbara Melton is a freelance and contract writer who has written professionally for more than 2 decades in film, tv, and advertising.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
