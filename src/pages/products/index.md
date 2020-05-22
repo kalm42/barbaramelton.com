@@ -1,101 +1,64 @@
 ---
-templateKey: 'product-page'
+heading: Dream Makers
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: Dream Makers
+image: /img/img-8751.jpg
+description: Wall hanging
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+    - image: /img/dreammakers_small.jpg
+      text: Different sizes are available. Even necklace size! The necklace size works
+        in a car as well. Various colors. Most have feathers. Some people
+        request one without feathers because of allergies. Handmade pom-poms are
+        also available. Reach me at barbara.melton@gmail.com
+  heading: What I offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    I make Dream Makers. The purpose of these is as the name implies--to offer
+    spiritual aid in making your dreams come true. I make each one, weaving a
+    special prayer into it. I trust the Divine Source to match prayer/Dream
+    Maker to person. I am also happy to make one for a loved one with your
+    special prayer for them woven in. You can reach me at
+    barbara.melton@gmail.com
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Dream Makers
+  description: |
+    Each made with spiritual intention/prayer.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Can be worn as a necklace.
+    image: /img/dremaker_necklace.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Small wall hanging. Some prefer a simple style, not much adornment.
+    image: /img/smalldreamaker_black.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    alt: Some prefer more adornment and a bigger size. What do you want on yours?
+      You can let me know at barbara.melton@gmail.com
+    image: /img/heatherdremaker.jpg
+testimonials: []
+full_image: /img/variousdrmakers.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Necklace-size Dream Maker
+  description: "Choose your own color. Or allow me to choose for you. "
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect as a casual necklace. Or as a small, decorative hanging.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - 1 necklace-size
+        - handmade Dream Maker.
+      plan: Necklace-sized
+      price: "10"
+    - description: "Perfect to hang near your desk. Choose your color. Or allow me to
+        choose for you. "
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 1 medium size
+        - handmade Dream Maker.
+      plan: Small-Medium Size
+      price: "20"
+    - description: 'Do you need a dozen necklace-size Dream Makers as "party favors"?
+        Do you need two small or medium sized of differing colors but similar
+        pattern for twins? '
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - "Let's discuss your needs and see how I can help. I'm easy to reach:
+          barbara.melton@gmail.com"
       plan: Custom
-      price: '??'
+      price: TBD on individual basis
 ---
