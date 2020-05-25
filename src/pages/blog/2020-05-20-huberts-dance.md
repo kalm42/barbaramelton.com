@@ -7,8 +7,17 @@ description: In part 1 of this revised short story, readers meet Hubert, as seen
 featuredpost: true
 featuredimage: /img/hubertsoldplace.jpg
 tags:
-  - "#Arkansas #family #cousins #quiet #man #angels #magic #names #familystories
-    #oralhistory #California"
+  - Arkansas
+  - family
+  - cousins
+  - quiet
+  - man
+  - angels
+  - magic
+  - names
+  - familystories
+  - oralhistory
+  - California
 ---
 <!--StartFragment-->
 
