@@ -1,9 +1,9 @@
 ---
-heading: Dream Makers
-path: /products
 templateKey: product-page
 title: Dream Makers
 image: /img/img-8751.jpg
+heading: Dream Makers
+path: /products
 description: Wall hanging
 intro:
   blurbs:
@@ -38,7 +38,7 @@ testimonials: []
 full_image: /img/variousdrmakers.jpg
 pricing:
   heading: Necklace-size Dream Maker
-  description: "Choose your own color. Or allow me to choose for you. "
+  description: Choose your own color. Or allow me to choose for you.
   plans:
     - description: Perfect as a casual necklace. Or as a small, decorative hanging.
       items:
