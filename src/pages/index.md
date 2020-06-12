@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Fresh writing!
-image: /img/rain_uptowndallas.jpg
+image: /img/datenightselfie_dallas.jpg
 heading: Weather Report
 subheading: Do you think it's raining?
 mainpitch:
@@ -18,12 +18,8 @@ intro:
   blurbs:
     - image: /img/superherobarb.jpg
       text: blah blah blah
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Blog
+  description: Check out the latest blog!
 main:
   heading: Writer
   description: >
