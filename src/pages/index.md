@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Fresh writing!
-image: /img/datenightselfie_dallas.jpg
-heading: Weather Report
-subheading: Do you think it's raining?
+image: /img/zinnia.jpg
+heading: Check out the blog pages
+subheading: Enjoy!
 mainpitch:
   title: Fresh Writing!
   description: >
