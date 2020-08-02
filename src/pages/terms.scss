@@ -1,0 +1,28 @@
+.terms {
+  max-width: 900px;
+  margin: 0 auto;
+
+  h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 2;
+  }
+  h2 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    line-height: 2;
+  }
+  h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 2;
+  }
+
+  ul {
+    padding: 0 30px;
+    list-style: disc;
+  }
+  p {
+    padding: 1rem 0;
+  }
+}
