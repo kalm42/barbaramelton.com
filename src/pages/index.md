@@ -1,18 +1,15 @@
 ---
 templateKey: index-page
-title: Fresh writing!
-image: /img/zinnia.jpg
+title: Barb's random thoughts...
+image: /img/img-2947.jpg
 heading: Check out the blog pages
-subheading: Enjoy!
+subheading: thinking...thinking...thinking...
 mainpitch:
-  title: Fresh Writing!
-  description: >
-    Texas rain is so serious compared to California rain. Water falls from the
-    sky in CA, when it feels like it, kinda like a bratty teen offering just
-    enough parental contact to keep those adults calmed down. Rain in Texas
-    pours from the sky by turns eager to reach Mother Earth like excited
-    toddlers and pummeling the same Mother Earth with raindrops like angry
-    toddlers stomp their feet. 
+  title: Clouds
+  description: The world looks new, like a child's painting. Blue sky littered
+    with clouds like stepping stones for Peter Pan, Tinkerbell, and Wendy
+    Darling. Then clouds wispy like eraser marks where the artist changed her
+    mind.
 description: "You'll find more writing like that here! "
 intro:
   blurbs:
