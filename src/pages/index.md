@@ -1,15 +1,15 @@
 ---
 templateKey: index-page
 title: Barb's random thoughts...
-image: /img/img-2947.jpg
+image: /img/img-2954.jpg
 heading: Check out the blog pages
 subheading: thinking...thinking...thinking...
 mainpitch:
-  title: Clouds
-  description: The world looks new, like a child's painting. Blue sky littered
-    with clouds like stepping stones for Peter Pan, Tinkerbell, and Wendy
-    Darling. Then clouds wispy like eraser marks where the artist changed her
-    mind.
+  title: Sand. Transformation.
+  description: " Clouds swept the sky above Coco Beach, lending a silvery patina
+    to the world. So bright I had to look away from the horizon. Looking down, I
+    saw bits of sea shells. As I gazed at the sand, I wondered--when and how do
+    sea shells become grains of sand? What must that transformation feel like?"
 description: "You'll find more writing like that here! "
 intro:
   blurbs:
