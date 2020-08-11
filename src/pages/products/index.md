@@ -1,64 +1,58 @@
 ---
-heading: Dream Makers
+heading: Writer
 path: /products
 templateKey: product-page
-title: Dream Makers
-image: /img/variousdrmakers.jpg
-description: Wall hanging and jewelry
+title: Freelance Commercial Writer
+image: /img/img-3122.jpg
+description: "I'm the freelance writer your business needs. "
 intro:
-  blurbs:
-    - image: /img/dreammakers_small.jpg
-      text: Different sizes are available. Even necklace size! The necklace size works
-        in a car as well. Various colors. Most have feathers. Some people
-        request one without feathers because of allergies. Handmade pom-poms are
-        also available. Reach me at barbara.melton@gmail.com
-  heading: What I offer
+  blurbs: []
+  heading: I also make Dream Makers
   description: >
-    I make Dream Makers. The purpose of these is as the name implies--to offer
-    spiritual aid in making your dreams come true. I make each one, weaving a
-    special prayer into it. I trust the Divine Source to match prayer/Dream
-    Maker to person. I am also happy to make one for a loved one with your
-    special prayer for them woven in. You can reach me at
-    barbara.melton@gmail.com
+    
+    I make Dream Makers. The purpose of these is as the name implies--to offer spiritual aid in making your dreams come true. I make each one, weaving a special prayer into it. I trust the Divine Source to match prayer/Dream Maker to person. I am also happy to make one for a loved one with your special prayer for them woven in. You can reach me at barbara.melton@gmail.com
 main:
-  heading: Dream Makers
-  description: |
-    Each made with spiritual intention/prayer.
+  heading: Freelance Commercial Writer
+  description: >
+    Do you have a business? Need a weekly blog? Facebook posts on your business
+    page?  Let's talk and discover how I can help you grow your business. I'm
+    the writer you've been looking for. Barbara.melton@gmail.com
   image1:
     alt: Can be worn as a necklace.
     image: /img/dremaker_necklace.jpg
   image2:
-    alt: Small wall hanging. Some prefer a simple style, not much adornment.
+    alt: "Small wall hanging. "
     image: /img/smalldreamaker_black.jpg
   image3:
-    alt: Some prefer more adornment and a bigger size. What do you want on yours?
-      You can let me know at barbara.melton@gmail.com
-    image: /img/heatherdremaker.jpg
+    alt: Variety
+    image: /img/dreammakers_small.jpg
 testimonials: []
-full_image: /img/variousdrmakers.jpg
+full_image: /img/coleus.jpg
 pricing:
-  heading: Necklace-size Dream Maker
-  description: Choose your own color. Or allow me to choose for you.
+  heading: Basic packages
+  description: One of these packages may meet your business needs.
   plans:
-    - description: Perfect as a casual necklace. Or as a small, decorative hanging.
+    - description: One original blog post, 500 words or less
       items:
-        - 1 necklace-size
-        - handmade Dream Maker.
-      plan: Necklace-sized
-      price: "10"
-    - description: "Perfect to hang near your desk. Choose your color. Or allow me to
-        choose for you. "
+        - Tone tailored to fit your business
+        - Your expertise showcased
+        - Contact me at Barbara.melton@gmail.com
+      plan: One blog post per week
+      price: 75/ month
+    - description: Do you have a Facebook page for your business and need a weekly
+        post? I'm the writer you've been looking for!
       items:
-        - 1 medium size
-        - handmade Dream Maker.
-      plan: Small-Medium Size
-      price: "20"
-    - description: 'Do you need a dozen necklace-size Dream Makers as "party favors"?
-        Do you need two small or medium sized of differing colors but similar
-        pattern for twins? '
+        - 1 Facebook post per week
+        - Tone tailored to fit your business
+        - Contact me at Barbara.melton@gmail.com
+      plan: Social Media posts
+      price: 50/month
+    - description: "Blog and Social Media? New company? "
       items:
-        - "Let's discuss your needs and see how I can help. I'm easy to reach:
-          barbara.melton@gmail.com"
-      plan: Custom
-      price: TBD on individual basis
+        - Looking for weekly blog posts and social media posts?
+        - Are you online and brick and mortar? Worried your marketing copy is
+          not speaking to your whole client base?
+        - Contact me at Barbara.melton@gmail.com
+      plan: Special Project
+      price: TBD
 ---
