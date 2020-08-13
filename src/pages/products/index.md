@@ -17,6 +17,8 @@ main:
     Do you have a business? Need a weekly blog? Facebook posts on your business
     page?  Let's talk and discover how I can help you grow your business. I'm
     the writer you've been looking for. Barbara.melton@gmail.com
+
+    (469) 844-8420
   image1:
     alt: Can be worn as a necklace.
     image: /img/dremaker_necklace.jpg
