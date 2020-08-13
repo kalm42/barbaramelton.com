@@ -6,7 +6,7 @@ heading: Check out the blog pages
 subheading: thinking...thinking...thinking...
 mainpitch:
   title: Sand. Transformation.
-  description: " Clouds swept the sky above Coco Beach, lending a silvery patina
+  description: " Clouds swept the sky above Cocoa Beach, lending a silvery patina
     to the world. So bright I had to look away from the horizon. Looking down, I
     saw bits of sea shells. As I gazed at the sand, I wondered--when and how do
     sea shells become grains of sand? What must that transformation feel like?"
