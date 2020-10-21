@@ -6,7 +6,9 @@ title: Freelance Commercial Writer
 image: /img/img-3122.jpg
 description: "I'm the freelance writer your business needs. "
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/48b63438-caba-442b-a125-86979d74d88b.jpeg
+      text: Stuff
   heading: I also make Dream Makers
   description: >
     
