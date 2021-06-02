@@ -1,13 +1,33 @@
 ---
 templateKey: index-page
 title: Barb's random thoughts...
-image: /img/50f35747-f5fa-4dac-ba0f-8cb70e8b6dce.jpeg
+image: /img/48b63438-caba-442b-a125-86979d74d88b.jpeg
 heading: Check out the blog pages
 subheading: thinking...thinking...thinking...
 mainpitch:
-  title: A sudden burst of love...
-  description: >2
-     There I sat, a pause in grading to refresh my mind. An episode of “Community” played on the TV like background music. I gathered materials, ready to work on one of my current craft projects. Kaleidoscopic thoughts flitted through my mind—noteworthy examples of student writing, the interesting play of light across the variations of pink in this current project, ideas circling for the next project, revision ideas for “Mrs. Stinky.” I felt my shoulders relax as I made a mental note to remember to do Pilates later. And somehow I was suddenly overcome with love. A golden light embraced me with such tenderness and joy. I turned my head, looking for you. I wanted nothing more in that moment than to find you and hug you close as I showered you with kisses, to say “love you!” 
+  title: Things ya think....and say..
+  description: >-
+    She looks up at a clear blue sky, the kind of sight that makes ya whisper
+    "Texas."
+
+    She smiled, "Gonna be a good day! Nothin up there but clouds and bird farts."
+
+    _____________________
+
+
+    I saw the wind blow a leaf into the cemetery. The leaf fought valiantly throughout this last leg of its journey, following the poet's advice. Twisting this way and that in the wind, maybe it couldn't allow itself to submit. I think it was surprised at the gentle landing.
+
+
+    _______________________
+
+
+    "Silence is often used to communicate disapproval. It is usually heard as agreement. If something isn't right, use your words. Speak truth."
+
+
+    _____________________________________________
+
+
+    I sat on the beach. scooping sand into my hand, watching it flow through my fingers. Few people about. The rhythm of the ocean combined with my scooping of the sand. I concentrated on the sand as it fell back to earth, flowing like water through my fingers. Lost in thought....this sand looks like microscopic pieces of seashells, like a living carpet testifying to the power of erosion and time. What else did it take to transform the seashells into sand? What did that feel like to become something so different? 
 description: "You'll find more writing like that here! "
 intro:
   blurbs: []
