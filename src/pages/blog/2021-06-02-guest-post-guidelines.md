@@ -11,8 +11,6 @@ tags:
   - "#guestpost #storytelling #storytellers #writers #blog #essay #shortstory
     #flashfiction #art #diversity"
 ---
-
-
 ## Guest Post Guidelines
 
 Thanks for your interest in contributing to BarbaraMelton.com! The site is here to celebrate a love of writing and storytelling. One of the most important things we can do to celebrate the art of a well-turned phrase, a well-written story is with occasional Guest Posts.
@@ -40,15 +38,13 @@ When in doubt, get in touch with me (Barb) via BarbaraMelton.com. I’m the one 
 
 Note: Our readers are a diverse group of intelligent, creative, thoughtful, hardworking, humorous people. Do you have something to share with such a group? Topics of interest are vast.
 
-
-
 ## Guest Post Content Tips
 
 The guiding light behind our hosting of Guest Posts is to share content that’s original, educational, engaging, and entertaining--not product-focused or promotional.
 
 Use a Guest Post to showcase your expertise with potential new customers. If people find your content valuable, they’ll research you all on their own.
 
-Break up your content, so it’s easy to read. Of course, if you wish, include headings, subheadings, or other visual elements. Because BarbaraMelton.com focuses on the art of writing, photos (jpeg or png) are not recommended.
+Break up your content, so it’s easy to read. Of course, if you wish, include headings, subheadings, or other visual elements. Because BarbaraMelton.com focuses on the art of writing, photos (jpeg or png) are recommended in a limited way. Choose the best one to use.
 
 Write in a natural, conversational tone. We want to share your original content, show off your unique voice. Please note: if your guest post was a movie, the highest rating should be PG-13.
 
