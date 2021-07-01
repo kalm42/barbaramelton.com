@@ -15,8 +15,6 @@ tags:
   - "#daughter #mom #dad #stepdad #stepmom #spaghetti #choice #fear #abuse
     #sexualabuse #rage #survivor"
 ---
-
-
 I was 14. Standing in the kitchen in our home, this year in a small Arkansas town. It was time to cook dinner. Nothing new. Felt like I have been cooking dinner at least once a week since I was born. But really just since I was 10. But this dinner was special. Spaghetti was the entree. But I had been given permission to prepare and serve it anyway I wanted. I was the Cook.
 
 That’s how I saw the word, capital ‘C’. Mom wore her Proud Smile, the one she offered when I was completing some milestone, some epic moment of childhood. I have always wondered at her silence in these moments. She usually cannot stop herself from narrating. She reads street signs as we pass them, she explains cartoons and movies. She tells Little Brother and I that she loves us, then explains all the things she does for us so we understand just how big her love is. The only moments she chooses not to narrate and explain are the big ones. Those are met with silence.
@@ -51,7 +49,7 @@ Like most 14 year olds, I was sure Mom was doing a lot of things wrong, includin
 
 Stepdad joined us and saw the beautiful table. Bowls of salad at each of our four settings. Each plate held what I thought was a beautiful helping of spaghetti: pasta with sauce spooned over. Parmesan cheese was there on the table, next to the salt and pepper. The bowl of French bread, fresh from the oven, sat next to the bowl of steamed broccoli. I looked up proud and expectant of praise, at least a smile.
 
-In the moment when I had allowed myself to be proud of the meal I had prepared and the way I presented it, the world had changed. Mom’s Proud Smile had frozen on her face, chipping into rage like stone. Little Brother stared at his plate. Quiet. He glanced at me through his eyelashes. Then I looked at Stepdad. He was unhappy, racing toward livid.
+In the moment when I had allowed myself to be proud of the meal I had prepared and the way I presented it, the world had changed. Mom’s Proud Smile had frozen on her face, chipping into rage like ice-stones. Little Brother stared at his plate. Quiet. He glanced at me through his eyelashes. Then I looked at Stepdad. He was unhappy, racing toward livid.
 
 His head had been in his hands, elbows propped on the table. I thought he was ready to say grace. I was wrong. As his head raised, I saw his rage, felt the same freezing fear.
 
