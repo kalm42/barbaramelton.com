@@ -8,7 +8,7 @@ description: >-
 
   _____________________________
 
-  Aurora Daphne is a complicated, fractured young girl, trying to survive her environment. She tells her story because she's compelled to. She hopes telling it will make it less to carry with her through life. This is the first of Aurora Daphne's stories. I hope you find value in reading them.
+  Aurora Daphne is a complicated, fractured young girl, trying to survive her environment. She tells her story because she's compelled to. She hopes telling it will make it less to carry with her through life. She hopes telling it will help someone else who might be walking a similar path. This is the first of Aurora Daphne's stories. I hope you find value in reading them.
 featuredpost: true
 featuredimage: /img/img-3630.jpg
 tags:
