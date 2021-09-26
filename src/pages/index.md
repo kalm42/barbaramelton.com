@@ -7,8 +7,32 @@ subheading: thinking...thinking...thinking...
 mainpitch:
   title: Things ya think....and say..
   description: >-
-    She looks up at a clear blue sky, the kind of sight that makes ya whisper
-    "Texas."
+    Her granddaughter entered the sparsely furnished apartment. She saw her
+    grandmother working on a jigsaw puzzle, the card table pulled close to the
+    recliner. Perched excitedly on the edge of the recliner was Granny, smiling
+    and holding her arms out for a hug. 
+
+
+    "You were gone so long this time, Sweetie. I near gave up hope of seein my first-born granddaughter again."
+
+
+    As the granddaughter leaned in for a hug, her eyes fell on the framed 8x10 glossy picture in the ornate frame. 
+
+
+    Granny cackled with humor, "Yep! Still got the picture of the family that ought to be mine!"
+
+
+    Her granddaughter's eyes, so filled with love a moment ago, transformed, fill with clouds hiding truth from everyone, even herself. 
+
+
+    "Of course, you do Granny. Maybe you should write that soap opera and invite the cast for Christmas. Maybe they'll come."
+
+
+    Granny, wrapped in her granddaughter's arms, smiled with pleasure at this echo of her greatest wish. She neither heard nor saw the pain as again this first-born grandchild learned again that she was not enough. Just not enough. 
+
+    ______________________________________
+
+    She looks up at a clear blue sky, the kind of sight that makes ya whisper "Texas."
 
     She smiled, "Gonna be a good day! Nothin up there but clouds and bird farts."
 
